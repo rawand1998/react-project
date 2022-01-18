@@ -1,0 +1,28 @@
+.header-contanier{
+    display: flex;
+    flex-direction: row;
+    margin-top: 2%;
+    width: 100%;
+}
+.title{
+    padding-left: 50px;
+    margin-top: 10%;
+    width: 40%;
+}
+.image{
+    width: 60%;
+    height: 600px;
+}
+.image img{
+    width: 100%;
+    height: 500px;
+ 
+}
+.and{
+    position: relative;
+    font-family: 'Playfair Display', sans-serif;
+    color: #ac1313;
+    font-size: 68px;
+    line-height: 68px;
+    font-weight: 400;
+}
