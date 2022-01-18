@@ -1,9 +1,9 @@
-import About from './About/About';
-import Header from './Header/Header';
-import NavBar from './NavBar/NavBar';
-import News from './News/News';
-import Product from './Product/Product';
-import Footer from './Footer/Footer';
+import About from './About';
+import Header from './Header';
+import NavBar from './NavBar';
+import News from './News';
+import Product from './Product';
+import Footer from './Footer';
 export default {
     About,
     Header,
