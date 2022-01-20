@@ -10,7 +10,7 @@ function Header (){
             <Typography variant="body" gutterBottom component="div" sx={{color:'#d77474'}}>
             POMPEO POTTERY
       </Typography>
-            <Typography variant="h4" gutterBottom component="div" sx={{fontWeight:700,padding:'10px 0px',fontSize:'50px'}}>
+            <Typography variant="h4" gutterBottom component="div" sx={{padding:'10px 0px',fontSize:'45px',fontWeight:200}}>
             Unique Porcelain <span className='and'>& </span> <br />Stone Collection
       </Typography>
       <Typography variant="body" gutterBottom component="div" sx={{color:'#6c6c6c',    fontFamily: 'Libre Franklin, sans-serif'}}>
