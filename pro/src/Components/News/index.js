@@ -21,7 +21,7 @@ function News() {
 
             <div className='section-1'>
                
-                <div className='para-new'>
+                <div className='para-news'>
                     <Typography variant="h4" gutterBottom component="div" sx={{ color: '#000',fontSize:'24px',fontWeight:500 }}>
                     Orange Ceramic
 
