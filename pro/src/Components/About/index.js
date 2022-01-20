@@ -28,7 +28,7 @@ function About (){
             </div>
             <div className='about-para'>
                 <div className='para-1'>
-                <Typography variant="h4" gutterBottom component="div" sx={{color:'#000'}}>
+                <Typography variant="h4" gutterBottom component="div" sx={{color:'#000',fontSize:'30px'}}>
                 Hand Grafted<br/>
 Pottery since 1990
       </Typography>
@@ -37,7 +37,7 @@ Pottery since 1990
       </Typography>
                 </div>
                 <div className='para-2'>
-                <Typography variant="h4" gutterBottom component="div" sx={{color:'#000'}}>
+                <Typography variant="h4" gutterBottom component="div" sx={{color:'#000',fontSize:'30px'}}>
                 We Provide Premium<br/>
 Pottery Produts
       </Typography>
