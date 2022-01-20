@@ -1,0 +1,67 @@
+.contact-container
+{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 5%;
+}
+.container-img{
+    position: relative;
+    display: block;
+    width: 80px;
+    height: 80px;
+    margin-right: auto;
+    margin-bottom: 40px;
+    margin-left: auto;
+    border-radius: 100%;
+    background-color: #ebb96a;
+    background-image: url('https://assets.website-files.com/5ba96977bf120e1b45986c06/5baf7b8b7a16ad6c3bda1f4d_icons8-paper-plane-64.png');
+    background-position: 50% 50%;
+    background-size: 38px;
+    background-repeat: no-repeat;
+}
+.input-contact{
+    margin-top: 1%;
+    
+}
+.css-10botns-MuiInputBase-input-MuiFilledInput-input {
+    font: inherit;
+    letter-spacing: inherit;
+    color: currentColor;
+    /* padding: 4px 0 5px; */
+    border: 0;
+    box-sizing: content-box;
+    background: none;
+    height: 1.4375em;
+    margin: 0;
+    -webkit-tap-highlight-color: transparent;
+    display: block;
+    min-width: 0;
+    width: 100%;
+    -webkit-animation-name: mui-auto-fill-cancel;
+    animation-name: mui-auto-fill-cancel;
+    -webkit-animation-duration: 10ms;
+    animation-duration: 10ms;
+    padding-top: 12px;
+    padding-right: 12px;
+    padding-bottom: 8px;
+    padding-left: 200px;
+    border: 1px solid #ddd;
+
+}
+.css-fe1ole-MuiFormControl-root-MuiTextField-root {
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    position: relative;
+    min-width: 0;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    vertical-align: top;
+    /* padding: 0px 40px; */
+}
