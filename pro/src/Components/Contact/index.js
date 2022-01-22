@@ -15,7 +15,7 @@ function Contact (){
       </Typography>
       <div className='input-contact'>
       <TextField id="filled-basic" label="E-mail" variant="filled" sx={{padding:'0px 40px'}} />
-      <Button className='btn' variant="contained" sx={{background:'#000',padding:'10.2px 40px',borderRadius:0,fontFamily: 'Poppins, sans-serif',borderColor:'#000',marginLeft:'-5%'}}>NEW COLLECTION</Button>
+      <Button className='btn' variant="contained" sx={{background:'#000',padding:'16px 40px',borderRadius:0,fontFamily: 'Poppins, sans-serif',borderColor:'#000',marginLeft:'-3%',marginBottom:'1%'}}>NEW COLLECTION</Button>
       </div>
         </div>
     )

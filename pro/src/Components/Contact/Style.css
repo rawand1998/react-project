@@ -21,14 +21,14 @@
     background-repeat: no-repeat;
 }
 .input-contact{
-    margin-top: 1%;
+    margin-top: 3%;
     
 }
 .css-10botns-MuiInputBase-input-MuiFilledInput-input {
     font: inherit;
     letter-spacing: inherit;
     color: currentColor;
-    /* padding: 4px 0 5px; */
+    padding-left: 40px ;
     border: 0;
     box-sizing: content-box;
     background: none;
@@ -64,4 +64,9 @@
     border: 0;
     vertical-align: top;
     /* padding: 0px 40px; */
+    padding-left: 15px;
+    color: blue;
+}
+.css-e4w4as-MuiFormLabel-root-MuiInputLabel-root{
+    padding-left: 50px;
 }
